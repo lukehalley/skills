@@ -1,4 +1,4 @@
-# claude-skills
+# skills
 
 Claude skills. Each folder is one skill.
 
@@ -13,8 +13,8 @@ Claude skills. Each folder is one skill.
 Claude Code:
 
 ```
-git clone https://github.com/lukehalley/claude-skills.git
-cp -r claude-skills/<skill> ~/.claude/skills/
+git clone https://github.com/lukehalley/skills.git
+cp -r skills/<skill> ~/.claude/skills/
 ```
 
 Claude apps: zip the skill folder and upload it as a custom skill in
